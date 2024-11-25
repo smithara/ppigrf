@@ -11,7 +11,7 @@ The code is vectorized, so calculations should be pretty fast.
 
 ## Install
 
-The only dependencies are Numpy and Pandas. Install by either
+The only dependencies are numpy and pandas. Install by either
 
 ```
 pip install ppigrf
